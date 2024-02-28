@@ -1,1 +1,1 @@
-# ProtectTeslaCoils
+Prevents teslacoils from taking damage.
